@@ -14,4 +14,4 @@ Three models were explored to predict employee turnover: logistic regression, de
 
 ## Conclusion
 The project's findings indicate that it's possible to predict employee turnover with high accuracy at Salifort Motors. The decision tree and random forest models, with their superior performance metrics, provide valuable insights into the key factors contributing to employee departure. Implementing targeted HR interventions based on these insights can help Salifort Motors reduce turnover rates. Future work could explore additional modeling techniques, more complex feature engineering, and deeper analysis into department-specific turnover patterns to further enhance predictive accuracy and business strategy alignment.
-# hr-analytics-salifort-motors
+
